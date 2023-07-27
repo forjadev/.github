@@ -1,8 +1,8 @@
-# About Forja Dev
+# About Forja
 
 Forja Dev is an inclusive and welcoming community that believes in everyone's potential to achieve success. Built on this principle, we value the diversity and contribution of each member.
 
-Our name, 'Forja Dev', is a reference to a sword forge. Just as the creation of a sword involves shaping and transforming raw materials into something powerful, we dedicate ourselves to shaping and transforming you into a well-rounded developer.
+Our name, '**Forja**', is a reference to a sword forge. Just as the creation of a sword involves shaping and transforming raw materials into something powerful, we dedicate ourselves to shaping and transforming you into a well-rounded developer.
 
 ## Our Mission
 
@@ -14,7 +14,7 @@ We also encourage participation in Open Source projects, providing opportunities
 
 ## Getting Involved
 
-Looking to get involved with Forja Dev? Reach out to us or check out our current open source projects. We welcome contributors of all experience levels and backgrounds.
+Looking to get involved with **Forja**? Reach out to us or check out our current open source projects. We welcome contributors of all experience levels and backgrounds.
 
 ## Contact
 
@@ -22,7 +22,7 @@ For any queries or more information, feel free to contact us through our officia
 
 ## Code of Conduct
 
-Forja Dev is dedicated to creating a safe and positive environment for everyone. All participants are expected to adhere to our Code of Conduct.
+**Forja** is dedicated to creating a safe and positive environment for everyone. All participants are expected to adhere to our Code of Conduct.
 
 # Organizational Chart
 
