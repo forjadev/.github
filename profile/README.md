@@ -82,7 +82,7 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/joaodslourenco.png" width="100"> | [João Lourenço](https://github.com/joaodslourenco) |  Software Engineer |
 | <img src="https://github.com/YasminAlmeida.png" width="100"> | [Yasmin Almeida](https://github.com/YasminAlmeida) |  Software Engineer |
 | <img src="https://github.com/GreenProgramDev.png" width="100"> | [Sidney Lima](https://github.com/GreenProgramDev) |  Software Engineer |
-| <img src="https://github.com/junio12o.png" width="100">  | - | - |
+| <img src="https://github.com/junio12o.png" width="100">  | hi | :) |
 
 
 </td>
