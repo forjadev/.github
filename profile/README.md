@@ -61,7 +61,7 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/walber-vaz.png" width="100"> | [Walber Vaz](https://github.com/walber-vaz) |  Software Engineer |
 | <img src="https://github.com/rodrigofmeneses.png" width="100"> | [Rodrigo Meneses](https://github.com/rodrigofmeneses) |  Software Engineer |
 | <img src="https://github.com/Sevlak.png" width="100"> | [William Alves](https://github.com/Sevlak) |  Software Engineer |
-| <img src="https://github.com/imnotjuniodev.png" width="100"> | [Junio Santos](https://github.com/imnotjuniodev) |  Software Engineer |
+| <img src="https://github.com/junio12o.png" width="100"> | [Junio Santos](https://github.com/junio12o) |  Software Engineer |
 | <img src="https://github.com/OtavioSC.png" width="100"> | [Otavio](https://github.com/OtavioSC) |  Software Engineer |
 | <img src="https://github.com/machadondavi.png" width="100"> | [Davi Machado](https://github.com/machadondavi) |  Software Engineer |
 | <img src="https://github.com/guswillemann.png" width="100"> | [Gustavo Willemann](https://github.com/guswillemann) |  Software Engineer |
