@@ -27,13 +27,24 @@ Forja Dev is dedicated to creating a safe and positive environment for everyone.
 # Organizational Chart
 
 The following are our current teams with their awesome members and contact info:
-
+<div align="center">
+	
 ## Organization
 | Pretty Face | Name | Role |
 | -------------- | ------------- | ------------- |
 | <img src="https://github.com/arthur404dev.png" width="100"> | [Arthur Andrade](https://github.com/arthur404dev) |  Chief Technology Officer |
 
-## [Mjollnir](https://github.com/orgs/forjadev/teams/mjollnir) - Frontend Team
+<table>
+<tr>
+	<th>
+		<a href="https://github.com/orgs/forjadev/teams/mjollnir"> Mjonir </a> - Frontend Team
+	</th>
+	<th>
+		<a href="https://github.com/orgs/forjadev/teams/gungnir"> Gungnir</a> - Backend Team
+	</th>
+</tr>
+  
+<td>
 
 | Pretty Face | Name | Role |
 | -------------- | ------------- | ------------- |
@@ -51,9 +62,10 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/Gisellyrock.png" width="100"> | [Giselly Rocha](https://github.com/Gisellyrock) | Software Engineer |
 | <img src="https://github.com/deniseschirmer.png" width="100"> | [Denise Schirmer](https://github.com/deniseschirmer) | Software Engineer |
 | <img src="https://github.com/lucaseduardocrp.png" width="100"> | [Lucas Eduardo](https://github.com/lucaseduardocrp) | Software Engineer |
+ 
+</td>
 
-
-## [Gungnir](https://github.com/orgs/forjadev/teams/gungnir) - Backend Team
+<td>
 
 | Pretty Face | Name | Role |
 | -------------- | ------------- | ------------- |
@@ -70,3 +82,10 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/joaodslourenco.png" width="100"> | [João Lourenço](https://github.com/joaodslourenco) |  Software Engineer |
 | <img src="https://github.com/YasminAlmeida.png" width="100"> | [Yasmin Almeida](https://github.com/YasminAlmeida) |  Software Engineer |
 | <img src="https://github.com/GreenProgramDev.png" width="100"> | [Sidney Lima](https://github.com/GreenProgramDev) |  Software Engineer |
+| <img src="https://github.com/junio12o.png" width="100">  | - | - |
+
+
+</td>
+
+</table>
+</div>
