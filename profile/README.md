@@ -49,6 +49,7 @@ The following are our current teams with their awesome members and contact info:
 | Pretty Face | Name | Role |
 | -------------- | ------------- | ------------- |
 | <img src="https://github.com/wtheodoro.png" width="100"> | [Wallison Theodoro](https://github.com/wtheodoro) |  Team Lead |
+| <img src="https://github.com/GreenProgramDev.png" width="100"> | [Sidney Lima](https://github.com/GreenProgramDev) |  Software Engineer |
 | <img src="https://github.com/MBrunoS.png" width="100"> | [Maurício Bruno](https://github.com/MBrunoS) | Software Engineer |
 | <img src="https://github.com/ebarross.png" width="100"> | [Emanoel Barros](https://github.com/ebarross) | Software Engineer |
 | <img src="https://github.com/rodrigosantosdev.png" width="100"> | [Rodrigo Santos](https://github.com/rodrigosantosdev) | Software Engineer |
@@ -62,7 +63,6 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/Gisellyrock.png" width="100"> | [Giselly Rocha](https://github.com/Gisellyrock) | Software Engineer |
 | <img src="https://github.com/deniseschirmer.png" width="100"> | [Denise Schirmer](https://github.com/deniseschirmer) | Software Engineer |
 | <img src="https://github.com/lucaseduardocrp.png" width="100"> | [Lucas Eduardo](https://github.com/lucaseduardocrp) | Software Engineer |
- 
 </td>
 
 <td>
@@ -81,9 +81,8 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/MarkimQ.png" width="100"> | [Marco Queiroz](https://github.com/MarkimQ) |  Software Engineer |
 | <img src="https://github.com/joaodslourenco.png" width="100"> | [João Lourenço](https://github.com/joaodslourenco) |  Software Engineer |
 | <img src="https://github.com/YasminAlmeida.png" width="100"> | [Yasmin Almeida](https://github.com/YasminAlmeida) |  Software Engineer |
-| <img src="https://github.com/GreenProgramDev.png" width="100"> | [Sidney Lima](https://github.com/GreenProgramDev) |  Software Engineer |
-| <img src="https://github.com/junio12o.png" width="100">  | hi | :) |
-
+<!--! | <img src="https://github.com/junio12o.png" width="100">  | hi | :) | -->
+<!--! | <img src="https://github.com/junio12o.png" width="100">  | hi | :) | -->
 
 </td>
 
