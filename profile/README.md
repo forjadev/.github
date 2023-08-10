@@ -63,6 +63,7 @@ The following are our current teams with their awesome members and contact info:
 | <img src="https://github.com/Gisellyrock.png" width="100"> | [Giselly Rocha](https://github.com/Gisellyrock) | Software Engineer |
 | <img src="https://github.com/deniseschirmer.png" width="100"> | [Denise Schirmer](https://github.com/deniseschirmer) | Software Engineer |
 | <img src="https://github.com/lucaseduardocrp.png" width="100"> | [Lucas Eduardo](https://github.com/lucaseduardocrp) | Software Engineer |
+| <img src="https://github.com/DhemesonSiqueira.png" width="100"> | [Dhemeson Siqueira](https://github.com/DhemesonSiqueira) | Software Engineer |
 </td>
 
 <td>
